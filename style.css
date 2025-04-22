@@ -1,0 +1,37 @@
+h1{
+	color: rebeccapurple;
+	font-size: 60px;
+	text-align: center;
+}
+
+body{
+	background-color: #cccccc;
+	font-family: monospace;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	background-color: rebeccapurple;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	float: left;	
+	text-align: center;
+	padding: 10px;
+	color: whitesmoke;
+	font-size: 15px;
+}
+
+li a:hover{
+	color: rebeccapurple;
+	background-color: whitesmoke;
+}
